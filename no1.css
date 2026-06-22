@@ -1,0 +1,105 @@
+
+#a{
+    height: 30px;
+    width: 30px;
+}
+.nav{
+    display: flex;
+    width: 100%;
+}
+#z {
+    width: 60%;
+}
+#Y{
+    padding: 10px;
+    text-align: right;
+}
+.t{
+    padding: 20px;
+}
+.t:hover{
+    color: blue;
+    text-decoration: underline blue;
+    transition: 1s;
+}
+
+#i{
+    background-color: blue;
+    color: white;
+    border-radius: 5px;
+}
+#q{
+    display: flex;
+    background-image: url(../../background.jpeg);
+    height: 600px;
+    width: 1500px;
+    
+}
+#r{
+    padding: 50px;
+}
+#W{
+    height: 250px;
+    width: 600px;
+
+}
+.w{
+    border: 2px solid yellow;
+    height: 50px;
+    width: 50px;
+    margin-left: 20px;
+    box-shadow: 2px 2px 2px black;
+    margin-top: 20px;
+    border-radius: 50%;
+}
+.w:hover{
+    height: 80px;
+    width: 80px;
+    transition: 0.5s;
+}
+#p{
+    text-align: center;
+}
+
+.o{
+    height: 250px;
+    width: 220px;
+    border: 2px solid rgb(210, 184, 184);
+    margin-right: 50px;
+    text-align: center;
+    border-radius: 5px;
+    box-shadow: 2px 2px 5px black;
+}
+.o:hover{
+    background-color: silver;
+    color: black;
+    box-shadow: 5px 5px 5px;
+    width: 250px;
+    height: 270px;
+    transition: 0.5s;
+}
+#o{
+    display: flex;
+    padding: 20px;
+}
+#o1{
+    margin-left: 90px;
+}
+#u{
+    display: flex;
+}
+.l{
+    text-align: center;
+}
+.j:hover{
+    box-shadow: 5px 5px 5px;
+    width: 250px;
+    height: 270px;
+    transition: 0.5s;
+}
+.progress{
+    height: 10px;
+    width: 90%;
+    background-color: blue;
+    border-radius: 10px;
+}
